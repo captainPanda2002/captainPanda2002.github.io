@@ -115,6 +115,32 @@ img {
   max-width: none;
 }
 
+table, th, td {
+   border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    height: 50px;
+    vertical-align: bottom;
+}
+
+
 .date {
   font-style: italic;
   color: $white;
@@ -222,31 +248,6 @@ nav {
     display: block;
     font-size: 16px;
   }
-
-table, th, td {
-   border: 1px solid black;
-}
-
-table {
-    border-collapse: collapse;
-}
-
-table {
-    width: 100%;
-}
-
-th {
-    height: 50px;
-}
-
-th {
-    text-align: left;
-}
-
-
-
-
-
 
 
   a {
