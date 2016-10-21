@@ -201,10 +201,10 @@ th, td {
 }
 
 .site-avatar {
-  float: middle;
-  width: 2px;
-  height: 2px;
-  margin-right: 2px;
+  float: left;
+  width: 70px;
+  height: 70px;
+  margin-right: 15px;
 
   @include mobile {
     float: none;
@@ -235,6 +235,7 @@ th, td {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  float: middle;
 }
 
 .site-description {
