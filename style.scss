@@ -201,13 +201,13 @@ th, td {
 }
 
 .site-avatar {
-  float: right;
-  width: 0.1px;
-  height: 0.1px;
-  margin-right: 0px;
+  float: middle;
+  width: 5px;
+  height: 5px;
+  margin-right: 5px;
 
   @include mobile {
-    float: middle;
+    float: none;
     display: block;
     margin: 0 auto;
   }
@@ -221,7 +221,7 @@ th, td {
   float: left;
 
   @include mobile {
-    float: middle;
+    float: none;
     display: block;
     margin: 0 auto;
   }
