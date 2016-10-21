@@ -207,7 +207,7 @@ th, td {
   margin-right: 10px;
 
   @include mobile {
-    float: none;
+    float: middle;
     display: block;
     margin: 0 auto;
   }
@@ -221,7 +221,7 @@ th, td {
   float: left;
 
   @include mobile {
-    float: none;
+    float: middle;
     display: block;
     margin: 0 auto;
   }
