@@ -47,7 +47,7 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to work on being more collaborative and maybe helping others out a little more rather than just sit there when I've completed the set task. Nothing limited my learning.</td>
+    <td>I need to work on being more collaborative and maybe helping others out a little more rather than just sit there when I've completed the set task. It is quite hard to set these targets because it's a full analysis of the lesson but I feel like doing this is actually helping me. Nothing limited my learning.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
