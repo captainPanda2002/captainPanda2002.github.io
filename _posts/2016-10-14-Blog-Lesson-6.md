@@ -8,10 +8,10 @@ published: true
 ---
 <table>
   <tr>
-    <td></td>
+    <td>Title</td>
     <td>Making a blog test</td>
     <td>Date</td>
-    <td></td>
+    <td>14/10/16</td>
   </tr>
 </table>
 
@@ -53,7 +53,7 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next time, I will continue to do what I did this week because it works and my work is actually coming along very nicely.</td>
+    <td>Next time, I will continue to do what I did this week because it works and my work is actually coming along very nicely. This learning habit is defintiely working for me.</td>
   </tr>
 </table>
 
