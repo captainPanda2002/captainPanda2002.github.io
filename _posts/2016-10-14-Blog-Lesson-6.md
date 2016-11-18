@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Making a blog test</td>
+    <td>Adding more to Google Sheet</td>
     <td>Date</td>
     <td>14/10/16</td>
   </tr>
