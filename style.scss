@@ -23,23 +23,13 @@ ul.img-list {
 
 ul.img-list li {
   display: inline-block;
-  height: 150px;
+  height: auto;
   margin: 0 1em 1em 0;
   position: relative;
-  width: 150px;
+  width: 720px;
 }
 
-span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 150px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 150px;
-}
+
 
 span.text-content span {
   display: table-cell;
@@ -47,18 +37,6 @@ span.text-content span {
   vertical-align: middle;
 }
 
-span.text-content {
-  background: rgba(0,0,0,0.5);
-  color: white;
-  cursor: pointer;
-  display: table;
-  height: 150px;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 150px;
-  opacity: 0;
-}
 
 ul.img-list li:hover span.text-content {
   opacity: 1;
