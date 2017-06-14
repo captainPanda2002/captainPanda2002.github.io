@@ -1,5 +1,5 @@
 ---
-title: Re-Visiting Our Blogs
+title: Re-Visiting our blogs.
 layout: post
 author: kiran.pandya
 permalink: /copy-of-github-blog-test/
